@@ -1,0 +1,2149 @@
+Original Author: Hugh Bailey ("Jim")
+
+Contributors are sorted by their amount of commits / translated words.
+
+Contributors:
+ Jim
+ jpark37
+ Palana
+ R1CH
+ cg2121
+ WizardCM
+ fryshorts
+ DDRBoxman
+ Ryan Foster
+ Sebastian Beckmann
+ PatTheMav
+ Georges Basile Stavracas Neto
+ Gol-D-Ace
+ Rodney
+ BtbN
+ Shaolin
+ Kurt Kartaltepe
+ tytan652
+ kc5nra
+ pkv
+ Michael Fabian 'Xaymar' Dirks
+ Norihiro Kamae
+ VodBox
+ Exeldro
+ Zachary Lund
+ tt2468
+ Warchamp7
+ SuslikV
+ Paul Hindt
+ Reboot
+ Martell Malone
+ Ford Smith
+ Vainock
+ dodgepong
+ HomeWorld
+ Ed Maste
+ Joel Bethke
+ Alex Anderson
+ SCG82
+ brittneysclark
+ Dmitry-Me
+ columbarius
+ juvester
+ mvji
+ Tommy Vercetti
+ wangshaohui
+ JohannMG
+ craftwar
+ sorayuki
+ Dead133
+ Maya Venkatraman
+ derrod
+ Eric Lindvall
+ Jimi Huotari
+ Radzaquiel
+ Scratch
+ Socapex
+ mntone
+ Cephas Reis
+ Fabian Mastenbroek
+ Hector Martin
+ Luke Yelavich
+ Stéphane Lepin
+ tududweb
+ Florian Zwoch
+ Marvin Scholz
+ Rat
+ Skyler Lipthay
+ shiina424
+ Arkkis
+ GoaLitiuM
+ Hunter L. Allen
+ Igor Bochkariov
+ Ilya Melamed
+ Ka Ho Ng
+ Manuel Kroeber
+ Michel
+ Quinn Damerell
+ Theodore Dubois
+ Yuriy Chumak
+ Anthony Torres
+ Anton Bershanskiy
+ Bennik2000
+ Chip Bradford
+ Chris Angelico
+ Danni
+ Doug Kelly
+ Jess Mayo
+ Kris Moore
+ Mike
+ Palakis
+ Tristan Matthews
+ Alexandre Vicenzi
+ Carl Fürstenberg
+ Chris
+ Kilian von Pflugk
+ SoftArch
+ Tjienta Vara
+ Aaron Boxer
+ Anry
+ Bilal Elmoussaoui
+ CoDEmanX
+ Cody Jung
+ David Bieber
+ Developer-Ecosystem-Engineering
+ Hosein
+ Ioan Loosley
+ Ján Mlynek
+ MaZderMind
+ OldBaldGeek
+ Timo Gurr
+ Wahaj Dar
+ bl
+ makise-homura
+ nleseul
+ obiwac
+ Alexander Popov
+ Artem Polishchuk
+ Benjamin Klettbach
+ Bird, Christopher
+ Bl00drav3n
+ Blackhive
+ Charles Ray Shisler III
+ Daniel Lopez
+ David Cooper
+ Dossy Shiobara
+ Hernán
+ Jeremiah Senkpiel
+ Jiaxun Yang
+ John R. Bradley
+ Joseph El-Khouri
+ Lin
+ Matthew Glazar
+ Matthew Orlando
+ Michael R. Crusoe
+ Monsteer
+ Peter Geis
+ Philip Haynes
+ Robin Hielscher
+ Roman Sivriver
+ Serge Paquet
+ Tatsuyuki Ishi
+ Valentin
+ karenkim-AfreecaTV
+ paibox
+ pkubaj
+ shousa
+ tlivegaming
+ univrsal
+ vokama
+ Adrián Pardini
+ Aidan Delaney
+ Alex Miller
+ Alexander Schittler
+ Andreas Reischuck
+ Andrei Nistor
+ Arthus
+ AuroraWright
+ Azat Khasanshin
+ Be1erafon
+ Bongalive
+ Brian S. Stephan
+ Chaturbate
+ Christine Lin
+ Christopher P Yarger
+ Douglas Rhine
+ DungFu
+ Eric Bataille
+ Farzad Karkhani
+ Fred Emmott
+ Gary Kramlich
+ Grant Likely
+ Grzegorz Godlewski
+ Hans Petter Selasky
+ Henrik "Henke37" Andersson
+ John Boiles
+ Joshua Rowe
+ Julian Orth
+ Justin Bull
+ Justin Love
+ Jérémy Farnaud
+ Kasin Sparks
+ Kevin Degeling
+ Kristian Ollikainen
+ Lexsus
+ Lionheart Zhang
+ Lordmau5
+ Lucian Poston
+ Mat Clayton
+ Matt Morrissette
+ Matthew
+ Matthew McNamara
+ MedicMomcilo
+ Michael Goulet
+ Nirusu
+ Olle Kelderman
+ Piotr Esden-Tempski
+ Service Checker
+ Skid-Inc
+ Stéphane Cottin
+ Take Vos
+ Taylor Blau
+ Thomas Schnitzler
+ Thulinma
+ Tom Lynch
+ Torge Matthies
+ Vadim Zhukov
+ Warren Turkal
+ Willy Liu(HQ ENG)
+ Zhao Zhili
+ adray
+ akapar
+ astudios123
+ boombatower
+ bootkiller
+ ckelsel
+ comex
+ cristisilaghi
+ dgeibi
+ e00E
+ eightball567
+ hgonomeg
+ jpk
+ jw0z96
+ liu.haibin
+ notmark
+ skwerlman
+ stopforumspam
+ stump
+ taesheren
+ wolf247
+ yogpstop
+ Aarni Koskela
+ Abelardo E. Mendoza
+ Adit Sharda
+ Aesen Vismea
+ Afriza N. Arief
+ Aidan Epstein
+ Akagi201
+ Akihiko Koizuka
+ Alcaros
+ Alexander Kozhevin
+ Alexander Uhlmann
+ Alexandre Biny
+ Alexandre Paré
+ Alexis King
+ Ali Kaviani
+ Amin Shayan
+ Anastasiia Sidorovskaia
+ Andrew
+ Andrew Story
+ Andrew Tropin
+ Andrew Woodward
+ Andrés Barreiro
+ AngeredZeus
+ Anthony Catel
+ Anthony Super
+ AntowaStrong
+ Ariel D'Alessandro
+ Artem Merkulov
+ Asgeir Mortensen
+ Autumin
+ Avital Yachin
+ Aydin Akan
+ Bas van Meel
+ Bazhenoff
+ Beau Russell
+ Ben Alman
+ Ben Bowler
+ Ben Krueger
+ Ben Stahl
+ Benjamin Schubert
+ Bernd Buschinski
+ Biswapriyo Nath
+ Bob van de Vijver
+ Bruce Zhang
+ Byoungchan Lee
+ C. Daniel Sanchez R
+ Caitlin Potter
+ Caleb Anderson
+ CallumHoward
+ Cam
+ Can Bal
+ Carlo Castoldi
+ CarrotCodes
+ Cenk Uluisik
+ Cheeseness
+ Christian Lockley
+ Christopher P. Yarger
+ Christopher Serr
+ Claude Heiland-Allen
+ CodeYan01
+ Cole
+ CommanderRoot
+ Copy Liu
+ Cray Elliott
+ Dan Dascalescu
+ Daniel Escoz
+ Daniel Hill
+ Daniel Porter
+ David Baker
+ David Edmundson
+ David McMackins II
+ David Plappert
+ Delta
+ Derrick Lambert
+ Developer
+ Devin Neal
+ Devon Vitkovsky
+ Dmitry Odintsov
+ Dmitry Vovk
+ Doug Ty
+ Ed Ropple
+ Ek Palmer
+ Emil Sayahi
+ EpicCoder
+ Eric Laberge
+ Ethan Lee
+ Faeez Kadiri
+ Francisco Oltra
+ Frank Gehann
+ Frank Löffler
+ Garrett
+ GingerAudio
+ Giorgio Pellero
+ Gregory Luneau
+ Grigorii Chirkov
+ Guang Zhou
+ Guillermo A. Amaral
+ Gökberk Yaltıraklı
+ Haden F
+ Han-Tai Chen
+ Hayden McAfee
+ Hicham LEMGHARI
+ Iblis Lin
+ Ivan Efremov
+ J Lynn
+ J.D. Purcell
+ Jake Probst
+ James Beddek
+ James Hurley
+ Jamy Timmermans
+ Jason Francis
+ Jeff Ward
+ Jeremy Cole
+ JetMeta
+ Jkoan
+ Joan Miquel Fuster
+ Joe Flateau
+ John Cheng
+ Jon Topper
+ Jonathan
+ Jonathan Baecker
+ Joshua Ashton
+ Joshua Berenhaus
+ Julian Miller
+ Juliane Holzt
+ Justin B. Watson
+ Kacper Geisheimer
+ Kazuki Oishi
+ Kazuki Yamaguchi
+ Keith Packard
+ Kevin Ross
+ Kevin Tardif
+ Keylase
+ Kraz3D
+ Lasse Dalegaard
+ LiamCoal
+ Linnun
+ Lioncash
+ Lovecast Neil
+ Lqlsoftware
+ Lukas Monka
+ Luke Granger-Brown
+ Lukáš Mojžíš
+ MagicBear
+ Makeenon
+ Marc Chambers
+ Marcus Rückert
+ Mark Sergienko
+ Masato Takahashi
+ Mathias Panzenböck
+ Matthew Szatmary
+ Matthieu Cunzi
+ Meng Li
+ Micah Elizabeth Scott
+ Michael Hoang
+ Mike So
+ Mikhail Kochegarov
+ Misutaa Asriel
+ Morgan Rose
+ Morten Bøgeskov
+ Murnux
+ Nathan-Huckleberry
+ Neal Gompa
+ Nick Stockton
+ Nicolas F
+ Nicolas Fella
+ Night
+ Oliver Lietz
+ Olivier Humbert
+ OvchinnikovDmitrii
+ Patrick Ancillotti
+ Paul Mc Galey
+ Per Heed
+ Peter "Marenthyu" Fredebold
+ Peter Eszlari
+ Peter SZTANOJEV
+ Philip Loche
+ Philipp Bauer
+ Piotr Kubaj
+ Rafael Franco
+ René Rebe
+ Ricardo Constantino
+ Richard Fontana
+ Ro
+ Robert de Bock
+ Rodrigo Ipince
+ Romain Vigier
+ Ryan Sullivan
+ Ryszard Knop
+ SammyJames
+ Sebastian Ramacher
+ Sefa Eyeoglu
+ Serge Martial Nguetta
+ Seth Murphy
+ Seung-Woo Kim
+ Shamun
+ Shlee
+ Simon
+ Sophie Hamilton
+ Stanislav Izotov
+ Steve Wills
+ Teemu Kauhanen
+ Terje Gundersen
+ Thomas Crider
+ Thomas De Schampheleire
+ Thomas McGrew
+ Thomas Müller
+ Thomas Picquet
+ Tim Cooper
+ Tim Vaca
+ Toasterapp
+ TobiasGSmollett
+ Tom Peeters
+ Tom Pichler
+ TotalCaesar659
+ Translation
+ Uro
+ Weikardzaena
+ Will Jamieson
+ William Casarin
+ Wouter
+ Ying Yin
+ Younes SERRAJ
+ Yves Dionne
+ Yvo
+ Ziemas
+ a1346054
+ adocilesloth
+ antho
+ bin
+ bluekirby0
+ bth
+ chaselliu
+ chinasarft
+ chirenonsteem
+ clone1018
+ cmlin2
+ crazyheart
+ cryptonaut
+ davids
+ dennis
+ dwot
+ eastkiki
+ evandroduarte
+ fefine
+ fengyifan
+ floele
+ furious
+ fuyingqi
+ geekenmd
+ geemion
+ guangong7628
+ hellowanda
+ iRonBot
+ iamflorencejay
+ invalidtask
+ jake-shomer
+ jamacanbacn
+ jasonlee
+ jbpratt78
+ jeremiah
+ ka’imi
+ kevin.dww
+ kiwialec
+ kokole
+ lemmi
+ lorskun
+ lucha
+ luz.paz
+ mape
+ matoi974
+ meta
+ mhabedinpour
+ michael bishop
+ nd
+ nico
+ nkmerrill
+ pantonvich
+ partouf
+ pedanticdan
+ pipll
+ pkuznetsov
+ poccariswet
+ pongraczgabor87
+ praveenkumar
+ probonopd
+ qiongzai.sun
+ raincomplex
+ redcrazyheart
+ repeat
+ rkfg
+ rpslack
+ sam8641
+ sergey
+ skyboy
+ striphat-dev
+ sunjingzhao
+ thekrzos
+ trwnh
+ tuduweb
+ tujinshu
+ ty2570
+ vasu
+ vasuais
+ venepe
+ vfernandes-sympla
+ vic
+ vishakh-h
+ vividnightmare
+ waffeln
+ wang-bin
+ wang.shaohui
+ wangrui05
+ wanhongqing
+ wayne wang
+ weabook
+ windwakr
+ wpstream
+ yalpul
+ yoho
+ zhaolong
+ 张昆
+ 田七不甜
+ 
+Translators:
+ Albanian:
+  Aredio Vani (aredio.vani)
+  Albin Pllana (albinnpllanaa)
+  Enea (eneaaene1)
+  Begi Ganellari (begiganellari1997)
+  avnidj
+  Baker123
+  unknowndomain
+  Vainock
+ Arabic:
+  Tareq Almutairi (Tareq_s)
+  ZILZAL
+  Abdullah AL-Qahtani (Za7ef_SA)
+  majdcomp
+  Rami Kattan (rkattan)
+  Fady Adal (fadyadal)
+  Wydady (Wyd1)
+  aaakjt
+  ‫علي السادة (‪games power‬‏)‬‎ (alidsds11)
+  doyTech (aldoyh)
+  yngams (younessmouhid)
+  AiAF (7MR)
+  ibrahim Younis (gr33v)
+  omar al_hasasneh (omar.alhasasneh)
+  E3saR (e3sa_r)
+  معتصم دعنا (rozana-media)
+  fawaz006
+  Mohamed Zain (Thecheeseman)
+  Vainock
+  Fahim Sabah (Road_ar)
+  Abdulaziz (CleverShadow)
+  Gol D. Ace (goldace)
+  Saleh oukiki (salehoukiki)
+  Sami Kamal (samixgames)
+  Ahmad Alkurbi (DontPlay)
+  Tensai
+  Mustafa2018
+  FiberAhmed
+  BeleganStartup
+  Ndalabo Taema (hake_bsowq)
+  MesterPerfect
+  Fahad Alshaya (fashaya)
+  azez sh (azezsh)
+  Hani Sweileh (hno.sweileh)
+  Nasser Bin Laboun (nasserbinlaboun)
+  M24 AL-Zurqan (mohammedamer2443)
+  BWU Wheelman (Wheelman)
+  FC Barcelona HD (kurdnews)
+  osmansalih (hpcplus2016)
+  Umar Alfarook (alfarook)
+  Yhea Ahmad (yhea.ahmad7741)
+  unknowndomain
+  Ahmed Hawam (Hawam)
+  Mhd (thelord9200)
+  Hosein Hallavi (habibot81)
+  ButterflyOfFire (BoFFire)
+  sadam2002 sadam4 (sadam2002sadam4)
+  Rex_sa (rex07)
+  Malaz Gold Edition (Malo7zz)
+  Mnsor The-Ghost (mnsor1722011)
+  dodgepong
+  chaironeko
+  Hadi Gamer (hadigamer3131)
+ Aragonese:
+  juanpabl
+  Fabio Antonio Alanis Saushkina (fabio.alanis.saushkin)
+  mownd. (mownd0)
+ Armenian:
+  ՀայՏղաՀՏ (Zoro02)
+  HayTxa02
+  test123456ob
+  Hrach Mkrtchyan (mhrach87)
+  Tigran's Tips (tigrank08)
+  Vainock
+ Azerbaijani:
+  ShahinF27 (Khan27)
+  Mirsahin Mirserifov (mirsahin.mirsarifov)
+  Sədi Məmmədov (sedi9816)
+  Şamil Veliyev (TheShamil035)
+  Javid-An
+  unknowndomain
+  Vainock
+  Kənan Axundov (kenanaxundov2)
+ Bashkir:
+  Әлмәт Ак Арыслан (19082004amir)
+  Bashquart (RadMir2)
+  Synbulat Biishev (Syjalo)
+  unknowndomain
+ Basque:
+  Alexander Gabilondo (alexgabi)
+  Xabier Aramendi (azpidatziak)
+  Osoitz
+  Sergio Varela (IngrownMink4)
+  xabiu
+  Vainock
+  Gol D. Ace (goldace)
+  EG Gamer (eggamer131)
+  txaro
+  Galder L (315galder)
+  MCM Tuber (mcmtuber)
+  etxondoko
+  guyguy120 (gilenlecuona)
+  unknowndomain
+  Idoia Suárez (idoiasuarez86)
+  Fiwi1265
+  Aritz Herrero (aritzherrero4)
+  dodgepong
+ Belarusian:
+  ymcei
+  VainockManager
+ Bemba:
+  P White (phiaramulima)
+  Vainock
+ Bengali:
+  Roktim Ibne Hasan (roktimih)
+  shamuntohamd
+  Saptarshi Mondal (gitSaptarshi)
+  Vainock
+  C559 Raiyan :D (purebangali)
+  Rudro Rasel (rdrrsl)
+  Morshedul Alam (morshedintouch)
+  Oymate
+  Nurul Huda (nurulhuda859)
+  Gol D. Ace (goldace)
+  unknowndomain
+  Al Arafat (zonoiko)
+  Bashishtha Narayan Singh (bashishtha)
+ Bulgarian:
+  Zakxaev68
+  j3dy
+  Dremski
+  kalmarin
+  Seyhan Halil (easythe)
+  capitalrhino
+  g-k-m
+  DivideByNone
+  Vainock
+  AntiTikTokGang
+  Viktor Kitov (viktorkitov)
+  djradimix
+  Stoyan Stoyanov (sstoyanov)
+  Maxim Germanov (Macroguy)
+  Stanislav_Evtimov
+  Deivid Ivanov (GODMANEX)
+  Akjo (Akjo03)
+  TwoOneTwo (TwoThreeTwo)
+  Gol D. Ace (goldace)
+  Ivan (SKDown)
+  unknowndomain
+  Salif Mehmed (salifm)
+  Warchamp7
+ Catalan:
+  Jaime Muñoz Martín (jmmartin_5)
+  Benet R. i Camps (BennyBeat) (BennyBeat)
+  jmontane
+  Nil Campamà (Soifam)
+  Aleix Vidal i Gaya (leixet)
+  Vainock
+  Lluís R (LluisR98)
+  Gol D. Ace (goldace)
+  jan (test83318)
+  vilagamer999
+  Adolfo Jayme (fitoschido)
+  Xavier Muntada Samà (XavierMSama)
+  Giga hertz (gigahertzyt)
+  Pere O. (gotrunks)
+  unknowndomain
+  Aniol Pagès (aniolpages)
+ Chinese Simplified:
+  Bob Liu (Akagi201)
+  AlexGuo1998
+  fangzheng
+  wwj402_github
+  FrzMtrsprt (FrzHrzn)
+  Origami
+  Hexcolyte
+  AthlonHD
+  Rortenfeat
+  Gol D. Ace (goldace)
+  Licardo
+  PabloLiu (719018105)
+  SR_Mango
+  Sasasu
+  Steven (stevenlele)
+  Vainock
+  David Kuo (s50407s)
+  Rudro Rasel (rdrrsl)
+  鲜童 (xiananjyzy)
+  KyleBing
+  王秉德 (LUMOGROUP)
+  cai_miao
+  Opportunity (OpportunityLiu)
+  lm902
+  MarsYoung
+  Inku Xuan (inkuxuan)
+  Yi-Jyun Pan (pan93412)
+  yunluzhang
+  Sora Kayama (candysweetplayzmc)
+  copyliu
+  Boyuan Yang (073plan)
+  Richard Stanway (r1ch)
+  Gō̤ Brian Dìng (brightlikesun)
+  自满 (ziman_)
+  BiliSeaStone
+  Bing Feng (fengbing123)
+  David Hwang (davidxuang)
+  for_the_zero
+  jyc001
+  科技小白堂 (lipeng0820)
+  Eric Zhang (ericzhang456)
+  WeiYuanStudio
+  Giga hertz (gigahertzyt)
+  pangbin
+  unknowndomain
+  RytoEX
+  Vince Black (vincejudge00)
+  Smpq117 (smpq117)
+  sorayuki
+  dodgepong
+  WaterOtaku
+  Dianer Small (smalldianer)
+  OYYZ
+  Haoran Du (bingchuanjuzi)
+  Bob Wei (BobWaver)
+  Gentry Deng (wordlesswind)
+  xtexChooser
+  FaZe Fakay (fazefakay)
+  赵杭灵 (h1679083640)
+  Jiaxun Yang (flygoatfree)
+  cylin
+ Chinese Traditional:
+  Yi-Jyun Pan (pan93412)
+  TzeKei Lee (chikei)
+  Florid (u900011)
+  Michael Yeh (hinet60613)
+  Julian_Lai
+  dodgepong
+  myjourney in Steemit (myjourney)
+  Yu-Juei Tseng (e222et)
+  Kanbi Dungaitj (open3)
+  David Kuo (s50407s)
+  loulou921222
+  Gol D. Ace (goldace)
+  Vainock
+  craftwar
+  Thomas (thomassth)
+  Jcys
+  菘菘 (SiongSng)
+  xixiaofan (XXXF)
+  Watson Tsai (ashaneba)
+  Han-Jen Cheng (notexist)
+  Inndy.Lin (inndy)
+  offthegrid-mike
+  khng300
+  Edison Lee (edisonlee55)
+  Meng Hao Li (GazCore)
+  ak-47root
+  abc0922001
+  Append Huang (append)
+  X-RAY team film (961111ray)
+  fangzheng
+  zhtw
+  yeft
+  JackYeah
+  unknowndomain
+  Rudro Rasel (rdrrsl)
+  cai_miao
+  Tommy Chiang (oToToT)
+  曹恩逢 (SiderealArt)
+  Jimmy Huang (f56112000)
+  FaZe Fakay (fazefakay)
+  tomoe-musashi
+  chaironeko
+  weixiang0815
+ Croatian:
+  medicmomcilo
+  milotype
+  srdjan_m
+  Marino Rabach (MARINOMARINO)
+  Fran Kelava (fkelava)
+  schwabengeiz
+  Runicar (dajtisina)
+  penta (junp5i)
+  OfficialwobY
+  Gol D. Ace (goldace)
+  damba_
+  Maky (the.real.maky)
+  Vainock
+  Flicker (galaxybro2411)
+  unknowndomain
+  CroatianTranslator
+  dodgepong
+ Czech:
+  Jirka 'Venty' Michel (VentyCZ)
+  Vít Loyd Kolomazník (Arocles)
+  Šimon Bartoš (TyphousCrane654)
+  multi.flexi
+  Matěj Kozák (GrrrandyCZ)
+  Kryštof Černý (cewbdex)
+  Vainock
+  Martin H. (mhanak)
+  Stewio MC (stepandolsky)
+  Gol D. Ace (goldace)
+  Matěj David Ondráček (setam7)
+  JIMMY (vopasek)
+  Kiznoh
+  MrJaroslavik
+  Soviet Bear (cheatercz123)
+  Sawanyo
+  TheWolfiKK
+  Marilok (Marilokms)
+  Bazer47
+  Giga hertz (gigahertzyt)
+  unknowndomain
+  Erik Bročko (ericek111)
+  VikHill
+  dodgepong
+  Martin Pilát (piltmartin)
+  Daniel Padrta (dpadrta)
+  Tom_Hraje
+ Danish:
+  NCAA
+  Jens Hyllegaard (Hyllegaard)
+  scootergrisen
+  MaltahlGaming (maltahlgaming)
+  Anders G. Jørgensen (spirit55555)
+  Gol D. Ace (goldace)
+  Vainock
+  Anders Urban (minikaliffen)
+  Richard Stanway (r1ch)
+  Kenneth Nielsen (kenneth.nielsen)
+  Lukas Wiinholt (LukasW1337)
+  Marque Ziqulr (lugtelort)
+  Hero (HeroGamers)
+  Johan Keller Jensen (JKeller)
+  Christian Henriksen (cnhenriksen)
+  unknowndomain
+  Daniel Aundal (aundal)
+ Dutch:
+  Eric Bataille (ThoNohT)
+  Harm van den Hoek (harm27)
+  A. Voogt (atvoogt)
+  Michel Snippe (michelsnippe)
+  Greendweller
+  exeldro
+  Albakham (albakham)
+  Lars Acou (lars.acou)
+  Trigstur
+  Danny (Dkamps18)
+  Richard Stanway (r1ch)
+  Nicole (Dutchess_Nicole)
+  theking2
+  robbert0891 (robbertoorschot38)
+  Kjetil Verstrepen (kjetilv)
+  Gol D. Ace (goldace)
+  Vainock
+  Jasper J (JassieJ)
+  b__dm
+  Lars van Wijk (lhjvanwijk98)
+  Issa1553
+  Ik#1497 (ik1497)
+  Chunlu chunnyluny (Chunnyluny)
+  Bond-009
+  Jeroen Maathuis (Joennuh)
+  markpc
+  Jennifer Falco (JenTheBluePanda)
+  Vlame
+  andymidside
+  F_Producktions
+  Thom Knepper (MrKnepp)
+  Jasper (DJj123dj)
+  lokerhp
+  Lesley Natrop (lesleynatrop)
+  Wouter Dijkman (Wjouter)
+  Bo Alsemgeest (bo.alsemgeest.wausie)
+  unknowndomain
+  JorRy
+  Julian Meijboom (julianmeijboom)
+  RyyzQ
+  JustMaffie
+  Mees (MeesJ)
+  Roeland Kussé (roeland)
+ English, United Kingdom:
+  Andi Chandler (andibing)
+  Issa1553
+  unknowndomain
+  matwey
+  Vainock
+  Seb King (spud)
+  Cristhofer Sanchez Solano (JafetSS)
+  Endo (Balisong)
+  Amy (amyipdev)
+  Pete Russell (pete.russell)
+  Joel Jose (joeljose350)
+  Noah Husby (noahhusby)
+  rooban23
+  Evan Kummel (EvanK)
+  Ed L (Rexogamer)
+  FirstaAnta
+  Endysis
+  GarbageAtSB
+  Roofers
+  Roktim Ibne Hasan (roktimih)
+  tossing
+ Esperanto:
+  Matt Aaldenberg (MattAalden)
+  Mesu Devastator (Mesu_Devastator)
+  zer0ne (Rezoni)
+  webklaas
+  kresten Sckerl (kressckerl)
+  siamano
+  David M. (Syndyo)
+  Vainock
+ Estonian:
+  Mr Wildlore (wildlore)
+  MartinEwing
+  Avernys (Avernys_tv)
+  Oliver Jõgar (treier57lol)
+  AndresTraks
+  Agu Ratas (aguratas)
+  jmcrwd
+  Mikk T (Mikkt86)
+  Ben Towali (BenTowali)
+  Dex (deloxs)
+  C3kos (C3kos1)
+  Bentologi
+  Gol D. Ace (goldace)
+  unknowndomain
+  Vainock
+ Filipino:
+  dwaeji-aizelle
+  nyakayed
+  Napstaguy04
+  CodeYan01
+  Loyd Stephen Jayme (loydjayme25)
+  jermel
+  Raffy (Tested)
+  Gol D. Ace (goldace)
+  Vainock
+  arnoldsecret
+  Hagen Peter Marquez (HAJDog247)
+  Tros Mercado (User451)
+  Footmark
+  Raylir
+  unknowndomain
+  atomicfart2009
+  Jake Llabres Rabelas (rabelasj)
+ Finnish:
+  Arkkis (j)
+  supersingularisogeny
+  Jarska
+  Jiri Grönroos (spammemoreplease)
+  Kimmo Kujansuu (mrkujansuu)
+  Ricky Tigg (ricky.tigg)
+  dodgepong
+  Tero Keso (tero.keso)
+  Hemmuli X (hemmulix)
+  Vainock
+  Gol D. Ace (goldace)
+  Pyscowicz
+  heidi.wenger
+  sZnvARmNaq
+  milo willow (millow)
+  YummyTomatoes
+  Obama (Obama44)
+  VainockManager
+  banbaf (3peruna)
+  MCPE-1
+  unknowndomain
+  Juuso (juuso.keskikuru)
+  Xupie
+  Juha Köpman (e0f)
+  Operative Block (Suo)
+  ZapX5_
+  Ville Närhi (daimaah)
+  Jaakko Saarikko (saarikko)
+  Arttu Ylhävuori (arttu.ylhavuori)
+  chaironeko
+  fa booh (boohfa09)
+ French:
+  pkviet
+  Stéphane Lepin (Palakis)
+  Guillaume Turchini (orion78fr)
+  ArsTechnis
+  Tocram2 (tocram2)
+  Benjamin Cambour (lesinfox)
+  Skallr2 (Skallr)
+  Yberion
+  Léo (leeo97one)
+  RisedSky
+  Pikana
+  BoboopTeam
+  DoK_-
+  MrAngelos6
+  leluk
+  EN LYOWH (enlyowh)
+  DarckCrystale
+  Ben Turner (ben-turner)
+  MaxALEau
+  Vainock
+  DarkInFire
+  Theguiguix
+  Gol D. Ace (goldace)
+  Figurant16
+  Youtubeur FR│Giaco35 (Giaco35)
+  steve_fr
+  Valentin (valentin45)
+  kyllian (tardigradeus)
+  Hugo Varlet (Huvar)
+  Deski_
+  QD59
+  GANGAT Naeem (zboggum)
+  TurTiMo
+  Aime23
+  Grisou2907
+  BaguetteDePain_
+  MIBAND (LEMIBANDDEXARI)
+  Anat ROCHUT (arochut)
+  Keter LordFR (YorHaDen)
+  Jérémy LITIQUE (JeremyLTE)
+  christophe (TedM)
+  Nicolas Leperlier (leperlier)
+  Wydady (Wyd1)
+  illusdidi
+  🌠 DarK | #Hello 🌠 (DarKTV_FR)
+  Mathieu Hautebas (matteyeux)
+  Gabriel Dugny (Dugab)
+  KarThon10
+  tytan652
+  Yolopix
+  tburette
+  Richard Stanway (r1ch)
+  Adrien “GameZone Tv” de Decker (redcraft007)
+  Aryoll (Naomi_CAST)
+  ButterflyOfFire (BoFFire)
+  Evan Kummel (EvanK)
+  Zalki
+  SkytAsul (skytasul)
+  xav blacyre (xav35000)
+  Alexis Brandner (Alexinfos)
+  Romain Gille (romgille)
+  Wiwok
+  Camille Nury (kamsdu30)
+  dodgepong
+  Lexane Sirac (Exilexi)
+  Jean-Mathieu Jm Samson (sjm450666)
+  Wizi_89
+  Thomas Fournier (GoudronViande24)
+  Dredd47
+  Arzugar
+  HistoriCode97
+  Mathieu Goossens (matgoossens)
+  Albakham (albakham)
+  SkylixX
+  Nicolas Richard (YoungFrog)
+  Warchamp7
+  okzyrox
+  chaironeko
+  Lucas Juif (trycarnage)
+ Galician:
+  mbouzada
+  Xesús M. Mosquera Carregal (xesusmosquera)
+  Galician Translator (Galician_translator)
+  Máximo A. Coejo (mcoejo)
+  Vainock
+  Gol D. Ace (goldace)
+  unknowndomain
+  css
+  chaironeko
+  aluaces
+ Georgian:
+  georgianizator
+  Vainock
+  Razmik Badalyan (badalyanrazmik)
+  Gol D. Ace (goldace)
+  Temuri Doghonadze (temuri.doghonadze)
+  unknowndomain
+ German:
+  Vainock
+  Gol D. Ace (goldace)
+  Michael Fabian Dirks (Xaymar)
+  Sven Kirschbaum (fallobst22) (fallobst22)
+  Dennis Giebert (Isegrim) (isegrimderwolf)
+  Gregor Bigalke (gregtcltk)
+  dodgepong
+  Manuel (ElectronicWar)
+  Tim (robske_110) (robske110)
+  Marvin J. (juettemarvin)
+  gxalpha
+  Rodney (derrod)
+  lebaston100
+  mdod
+  Benjamin Klettbach (benklett)
+  cryxgio
+  Jonas Otto (jottosmail)
+  WurstOnAir
+  yojixe
+  Holger Sinn (Holger-Sinn)
+  Max Schulz (maxsschulz)
+  Splinter Cel (4eloweck)
+  The_Legend_of_xD
+  DonutCrab
+  AbsolutLeon
+  Luchx
+  MatsMTN
+  Richard Stanway (r1ch)
+  Palana
+  deexbeam
+  Jonathan (macburgerjunior)
+  WrapOwl
+  Achampnator
+  Enderdrache LP (enderdrachelp)
+  Prince_of_Raop
+  SlimPlay
+  Robin Hielscher (Jack0r)
+  unknowndomain
+  Patrick Frings (Ragnos)
+  css
+  Dav321 (Dav32_1)
+  Finn Hoffhenke (Finnlife)
+  Tomasz 'grocal' Grodzki (grocal)
+  AndreLeonardo (andreleonardoyt)
+  Lord Aidan (BadSideofBright)
+  BoJustus
+  VainockManager
+  Hadi Gamer (hadigamer3131)
+  Tiim
+  hakuchi
+  degra78 (degra789)
+ Greek:
+  swatzniker (dimitrisrtg324)
+  Katerina (katerinaramm)
+  Scourgemcdak
+  Mepharees
+  Iwannhs Kokkinhs (pigot12)
+  TheMetalHelper
+  Dimitris Papaioannou (dimtpap)
+  Tasos Sahanidis (tatokis)
+  Gselivanof (gselivanof)
+  George T. (tzikas97)
+  Nikolaos Peltekis (nikpelgr)
+  Greek Transliterator (greektransliterator)
+  Vainock
+  Qufy
+  Giga hertz (gigahertzyt)
+  Jim Spentzos (dspentzos)
+  Alex Kalles (leskal)
+  Ανδρέας Γεωργόπουλος (andrewgeo)
+  Kostas F (Kostas-F)
+  Warmaster
+  Gol D. Ace (goldace)
+  Efstathios Iosifidis (iosifidis)
+  Giorgos (Bald)
+  Themis T. (Deminho)
+  Jason_M
+  unknowndomain
+  Antwnhs M. (AntwnhsM.)
+  Christis Andreou (ch.andreou)
+  dodgepong
+  chaironeko
+  Dumb Thoughts (DumbThoughts)
+ Hebrew:
+  Omer I.S. (omeritzics)
+  djsavta
+  amirsher
+  Yaron Shahrabani (YaronSh)
+  lonelywolf11
+  David Furman (thefourCraft)
+  idanbo27
+  עידו דנה (idodana01)
+  nachmanpop
+  teddy vadmad (dubonchik)
+  Vainock
+  Yotam Ziv (yotamziv87)
+  Ethan (EthanDevelop)
+  Green Army (ofek18)
+  Chemi
+  Gol D. Ace (goldace)
+  Ducky (eilon_beno)
+  yuvyuv500
+  Light1c3
+  Yoel (ye8323)
+  epic_ziver_D
+  Netro (roi_adler)
+  David Zabrovsky (david.zabrovsky)
+  Hilla Glebotzki (Hilla123)
+  Aguy33
+  yoni3D
+  TheOver (upmeboost)
+  unknowndomain
+  yair (5shekel)
+  ghsi
+  אפיק רוזנר (afikr333)
+  roeiad (roi-adler)
+  Tal Machani (talmachani)
+ Hindi:
+  Bashishtha Narayan Singh (bashishtha)
+  Saswata Banerjee (azure.saswata)
+  BIJAY NAYAK (bijaykumar)
+  Ravindra Pednekar (raviped)
+  Rahul Dhangar (rahuldhangar)
+  SneakyFish5
+  shamuntohamd
+  Vainock
+  Devendra Poonia (programerd)
+  Sid-Shanker
+  Giga hertz (gigahertzyt)
+  unknowndomain
+ Hungarian:
+  Gige
+  Balázs Meskó (mesko.balazs)
+  Balázs Meskó (meskobalazs)
+  Dániel P. (Daniii_)
+  Gol D. Ace (goldace)
+  zolikonta
+  Sárga Pulcsis (SargaPulcsis)
+  ItzAndriss
+  Vainock
+  Isti (eisti)
+  Giga hertz (gigahertzyt)
+  TOM005
+  Adam Liszkai (adamos42)
+  henn89
+  IrepY
+  vargag159
+  Biró Bence (birobence19)
+  Levente Parádi (Techno.HaX)
+  unknowndomain
+  abydosan (abydoshun)
+  Skelly001
+  dodgepong
+ Indonesian:
+  Anbiya Shafaat (Anfia)
+  M Akmal (akmalcakep59)
+  Rafy Shafryan (SirNexa)
+  heydootdoot
+  Lieba Natur Brilian (naturbrilian)
+  Rendi (rendiazmi)
+  ziasukmana
+  Vainock
+  GudankGaming GG (GudankGaming)
+  Agustine Carolina (agustinecarolina483)
+  Rahman Yusri Aftian (aftian)
+  dnpxs (Dnoxs)
+  Deraidos
+  doplank
+  unknowndomain
+  Yanwardo Sitanggang (yanwardos)
+  MichaelJ
+  Azhe Kun (azhe403)
+  Giga hertz (gigahertzyt)
+  Jeff (ExpansionKit)
+ Italian:
+  LordShadow95
+  ROBERTO BORIOTTI (bovirus)
+  StarFang208
+  Marocco2
+  tiwi90
+  imcesca
+  smart2128
+  Sergio Beneduce (sbeneduce)
+  Ruggero Tomaselli (ruggi99)
+  Michele (ScrappyCocco)
+  Albakham (albakham)
+  dodgepong
+  Marco Ciampa (ciampix)
+  Alessandro Sarto (alesarto03)
+  Tommaso Cammelli (tomganguz) (tomganguz)
+  Vainock
+  Christian Mazzola (Alphaaa)
+  Martazza
+  mauriziopersi
+  ScemEnzo
+  M K (michelek.)
+  Edoardo Macrì (edomacri)
+  Alessandro (AlexzanDev)
+  riccardotornesello
+  Gol D. Ace (goldace)
+  VainockManager
+  Eric Botter (EricBotter)
+  Edoardo “OfficialDJMela” Macrì (agersforum)
+  Elena Shevaara (elenapinna15)
+  Silpheel
+  gianni morandi (strabbioboy)
+  Giulia (GhostyJade)
+  DomenicoDD
+  Fisherozzo
+  icovada
+  Androide Umano (androide012340)
+  Eugenio Tomasella (eugeniotomasella9)
+  Alessio Ilardi (alantheandroid)
+  SkyLion
+  Cristian Alfano (CristianAUnisa)
+  unknowndomain
+  Benedetto Mazza (benedetto.mazza99)
+  Lucia Spinello (Freya89)
+  Clarensio
+  Owly
+  Federico Tensi (habby1337)
+  Matt (NightMat)
+  Flavio Rinaldi (flaviorinaldi)
+  Rodney (derrod)
+  Daniele02_777
+  Alessandro Iepure (alessandro_iepure)
+ Japanese:
+  Kenta Takumi (style1925)
+  shousa
+  Bhanu Victor DiCara (SplatRT)
+  青柳和宏 (sherlock1891holmes)
+  saygo1125
+  dodgepong
+  森の子リスのミーコの大冒険 (Phroneris)
+  CKK COBALT (CKKCOBALT)
+  Hiroki IWAMA (higamma)
+  Vainock
+  kotobato
+  Kanji1113 (kanji1113)
+  Gol D. Ace (goldace)
+  ato lash (hal_shu_sato)
+  nkamae
+  unknowndomain
+  依神紫苑 (MonogoiNoobs)
+  神成フィルム (kami00nari)
+  GO Channel (georgestv.0129)
+  ? (a2y4)
+  Bob Liu (Akagi201)
+  Yuki Yu (Yukiyu)
+  ushu kura (kuraushu)
+  Alex Shafer (enzanki-ars)
+  chaironeko
+  Diogo Ramos (dr03ramos)
+ Kabyle:
+  Yacine Bouklif (YacineBouklif)
+  Vainock
+  ZiriSut
+  Slimane Selyan AMIRI (SelyanKab)
+ Korean:
+  ynetwork
+  영구땡 (wonkyupark)
+  Alex Lee (alex01763)
+  hibiya inemuri (hibiya)
+  DNSE (dnse)
+  AlexKoala (alexkoala)
+  임세훈 (shlim)
+  vyteking
+  Vainock
+  임시이름 (H_FeelsGood)
+  PaperCore (pprfp)
+  yeoneer
+  Gol D. Ace (goldace)
+  Hwanyong Lee (grbear)
+  RedditRook
+  hoehoetvhs
+  이지완 (Jiwan)
+  John Lee (john3374)
+  켈빈926 (hsjang2000)
+  Jong Kwon Choi (dailypro)
+  Ra.Workspace (RaWouk)
+  ilsubyeega
+  무아MUA (moajikyeongtv1048)
+  rldbs3411
+  DHtheCreator
+  hykdem kim (hykdem)
+  미르냥 (Mirnyang)
+  unknowndomain
+  최호빵 (SteamB) (steamb23)
+  Russell (crimeroyal)
+  뇽룡 (nyongryong)
+  Charles Wallis (charlestw127)
+  이승진 (smctgrass)
+  Look Studio (yoon080708)
+  Tristar Corp (Charleslee)
+  antome
+  swatzniker (dimitrisrtg324)
+  Nesswit (rishubil)
+  bluestar8
+  김동현 (ehehguu)
+  Bi0 D. (lefhi0731)
+ Kurmanji (Kurdish):
+  Cyax (Cyaxares)
+  cehnemdark
+  Roj (roj1512)
+  Giga hertz (gigahertzyt)
+  Vainock
+ Lao:
+  nirankoon.singpraseuth (nirankoon)
+  Vainock
+ Latvian:
+  oskars
+  Mops3005
+  Dejelnieks (dejelnieks212)
+  Peridot Nation (PeridotNation)
+ Lithuanian:
+  Viljamas (Vegas1)
+  Justas Vilimas (tyntas)
+  xNaii (lyrikas5)
+  TitasK (titukas1572)
+  Mariio_
+  Rolic
+  Nikita Podvinskij (PODWINSKi)
+  MuscileTurze
+  dnew (dbot)
+  Pufikas
+  ugnyteaaa
+  unknowndomain
+  Gol D. Ace (goldace)
+  Vainock
+  AquantiuM
+  justas beisinas (justas.beisinas2008)
+ Malay:
+  abuyop (Abuyop)
+  amsyar ZeRo (amsyarminer555)
+  AnNamir
+  WeingHong
+  Srap Dsign (srapdsign)
+  Giga hertz (gigahertzyt)
+  Gol D. Ace (goldace)
+  Vainock
+  unknowndomain
+  dodgepong
+ Mongolian:
+  begjan
+  Erhmee
+  Bilguun Ochirbat (BilguunOch)
+  unknowndomain
+  Vainock
+ Norwegian Bokmal:
+  Imre Kristoffer Eilertsen (DandelionSprout)
+  Taesh (magnusmbratteng)
+  flaeri
+  Patrick Williamson (wpatrick59)
+  Oddbjørn Grytdal (Fooshi)
+  Mats Edvin Aarø (matsedvin)
+  dodgepong
+  LandyLERThERmfLOpi
+  areedw
+  Tryvseu
+  Hvidsten Media (HvidstenMedia)
+  mgKaiztra
+  Tommy (nwgat)
+  Vainock
+  Syver Stensholt (7RST1)
+  Jordan Stutzmann (J-Stutzmann)
+  Alex Thomassen (Decicus)
+  Kent Anders Moe Derås (Owndragoon)
+  Sander Skjegstad (r530er)
+  Gol D. Ace (goldace)
+  LBlend
+  OsteHovel
+  Lauren (loritsi)
+  Legend27
+  Pederva
+  unknowndomain
+  chaironeko
+  Mats Andreassen (MatsA)
+ Norwegian Nynorsk:
+  Bjørn I. (bjorni)
+  Imre Kristoffer Eilertsen (DandelionSprout)
+  Eiliv
+  morden
+  LandyLERThERmfLOpi
+  unknowndomain
+  Yngve Spjeld Landro (yslandro)
+  VainockManager
+ Occitan:
+  Diluns
+  PinguiFabgeeklab
+  Vainock
+ Persian:
+  Johnny Warner (johhnywarner)
+  koper
+  MZ MAXIMUM (mahdigamermax)
+  AmirGhorbani_ir
+  ahangarha
+  Pikhosh (pikhosh)
+  peymanr34
+  Danial Behzadi (danialbehzadi)
+  Vainock
+  TiXO
+  Mohammad jawad (mrahmani788)
+  MohammadSaleh Kamyab (mskf1383)
+  Farshid Meidani (farshid_mi)
+  Giga hertz (gigahertzyt)
+  Gol D. Ace (goldace)
+  alefvanoon
+  Hosein Hallavi (habibot81)
+  MehdiAmirirad (Mehdiamirirad)
+  TqkeL
+  unknowndomain
+  Berrely
+  RytoEX
+  Meysam Naghavi (MeysamNaghavi)
+  lostman2000
+  XubeIR
+  Navid Sadeghieh (nsadeghieh)
+  Amirhossein yousefi (amir.sara)
+  Erfaniom
+ Polish:
+  Tomasz 'grocal' Grodzki (grocal)
+  Albakham (albakham)
+  Vassamo (jotpl69)
+  The Syntox (TheSyntox)
+  Michał Durak (micechal)
+  Damian Korcz (damikiller)
+  Łukasz Wójcik (lwojcik)
+  Vainock
+  Hexandcube (hexandcube)
+  Daniel Wieczorek (Kennyluz)
+  kaktus (_kaktus_)
+  sebek1pan
+  Mateusz (Silesianek)
+  mjluszko
+  Gol D. Ace (goldace)
+  opl
+  Popke
+  Skajdrovski
+  Michal (progamesmicrok)
+  Patryk Radziszewski (Chefski)
+  unknowndomain
+  Piteriuz
+  RytoEX
+  Hubert Degler (Hubertoos)
+  gnu-ewm
+  adamek2314
+  Super Polakowy (pawi.sun)
+  OldShaterhan (tomek12-96)
+  dodgepong
+  Julia Drewniak (ewagsi)
+  Maciej Błędkowski (mble)
+  Patryk Kunda (ner.i.ol)
+  Nojterone
+  Michał Lewczak (michal200507)
+  cooky
+ Portuguese:
+  horus68
+  Ev1lbl0w
+  João Vieira (joaofvieira)
+  batatasmor
+  Manuela Silva (mansil)
+  André Biscaia (LazP)
+  Tomás Antunes (tomasantunes)
+  Albakham (albakham)
+  dodgepong
+  x1k1nh0
+  joaoboia
+  alexandre433
+  Vainock
+  pedro.moreira.359 (pmmorsoft)
+  Nuno Matos (NunoCMatos)
+  Gol D. Ace (goldace)
+  Gatinhos
+  vanscorp
+  Gabriel L. (realgabriell)
+  Diogo Soares (DabliwAga)
+  Pedro Ricardo (Pedro270707)
+  kayal15948
+  Giga hertz (gigahertzyt)
+  unknowndomain
+  Gost_Evil
+  Tiago Mesquita (tiagomesquita)
+ Portuguese, Brazilian:
+  Shaolin (admshao)
+  Diogo Ramos (dr03ramos)
+  Skellingtor
+  Ramon Mendes (rbrgameplays)
+  Fabio Madia (Shaolin)
+  Lincoln H. (LincolnH)
+  igorruckert
+  Burkes
+  Emanoel Lopes (emanoelopes)
+  Pedro Ricardo (Pedro270707)
+  Guilherme Dias (Darkaiser)
+  Marcelo dos Santos Mafra (msmafra)
+  Eneias Polini (Eneias)
+  TFSThiagoBR98
+  Vainock
+  Bruno Lopes Mattos Luiz (lopestranslate)
+  CaioWzy
+  mizifih
+  André Gama (ToeOficial)
+  Avellar (BetaTester)
+  Maison da Silva (maisondasilva)
+  VergiI
+  ドージェ (Doges)
+  clr0dr1g
+  aalonsomb
+  Gol D. Ace (goldace)
+  Suni (SuniModni)
+  Murilo Ferrari (ferrarintc)
+  Giga hertz (gigahertzyt)
+  Gabriel Thiago (gth1ago)
+  morittan
+  LoboMetalurgico
+  dav (Davizinhn)
+  judy manzaneda (judymanzaneda95)
+  mathues
+  Hustuha
+  Matheus Fongaro (matheus.fongaro)
+  maribatis
+  Diego Ramos (Maneschy)
+  DanielTaqueto
+  JNylson
+  lakitoo
+  DJ Matheus Martins (DJMatheusMartins)
+  Tetri Mesquita Neto (tetri)
+  Guilherme Martins (GuilhermeMartins)
+  ghklug
+  DevilLorde
+  João (fror)
+  unknowndomain
+  Esdras Tarsis (esdrastarsis)
+  Ramon Gonzalez (ramon200000)
+  Guilherme Cruz (gcrz)
+  Miguel Balbo Victor (miguelbalbovictor)
+  dodgepong
+  Eduardo Addad de Oliveira - Eduaddad (eduardoaddad)
+  Com.praideal Com.praideal (ccompraideal)
+  Carlos Adriano de Souza (cadriza)
+  park (TheBugMeNot)
+  Guimaverick
+  dlageBR
+  Finhawk
+  andre.krdoso
+  Tiago Danin (TiagoDanin)
+ Punjabi:
+  manjotsingh0202
+  unknowndomain
+  Sheikh Ahmed (sheikhahmed)
+ Romanian:
+  Cristian Silaghi (sno_w)
+  Kele Ion Ion (krovyoll)
+  banrek
+  DragonulRed
+  eex
+  Hisashi
+  Andrei Ionescu (abcdedjdmddx)
+  BlakeNowah
+  Doru Stoica (dorusto)
+  Victor Paul (corvinpaul)
+  Skellytone
+  Mihai G (babasghenciu)
+  Vainock
+  Gol D. Ace (goldace)
+  Melonoone
+  LupusMechanicus
+  Voie Tudor (tudorvoie2008)
+  Andrii Popovych (Andrii-Popovich)
+  Sw3aty1 Cristi (ca1510797)
+  unknowndomain
+  Diamyx
+  alex123 alex123 (dumitruvalentin44)
+  dodgepong
+  chaironeko
+ Russian:
+  Alek Nirov (dectanova)
+  Andrei Stepanov (adem4ik)
+  iltrof
+  EDNVKjldr8vyu9
+  ViktorOn
+  Pavel (Shevalie)
+  VNGXR
+  Bugo
+  Әлмәт Ак Арыслан (19082004amir)
+  Kolya Майнкрафт (KolyaYT_)
+  MaximGribanov
+  dodgepong
+  Vainock
+  Fitik
+  Gol D. Ace (goldace)
+  Artem (Artem4ik)
+  GP (legionerri)
+  Yaroslav (MrYadro)
+  css
+  Synbulat Biishev (Syjalo)
+  fromgate
+  Пахомов Александр (GXTrus)
+  Антон Илясов (Vewa9907)
+  Sirboys
+  TDoT
+  WoWnik (wownik98)
+  VikHill
+  er123rin (se123rin)
+  Andy (anry025)
+  Nemesis (Nemesis07)
+  NEO FEED (srdsafdsfsdfsdfsdgdfh)
+  Просто Взут (JustVzyt)
+  Blueberry (Blueberryy)
+  Zonega
+  Utoog (rivus)
+  bxkr
+  Serge Sklyarov (sergesklyarov)
+  Андрей Курдюков (sandrix)
+  Anton Bershanskiy (bershanskiy)
+  Makatavin # (makatavin0)
+  HSD Channel (kvdbve34)
+  slicht
+  Mr Misha (MrMisha)
+  Nikita Epifanov (Nikets)
+  Fik Dencer (4Soul)
+  ExZo
+  RaspingMango (RaspingMango637)
+  Vlad (KoTmaxHo)
+  Vladimir (jeffors)
+  Myasko
+  Mikhail Paulyshka (Mixaill)
+  Иван Геймеров (hronos-2t)
+  Super 2004 (pe86ki)
+  Дима Исаев (dima.isaev2005)
+  Nikita Bibanaev (nicky18013)
+  Максим Куренков (kuplay)
+  pavuma
+  Sergei Fug1t1v3 (fug)
+  Цезарь Ролл (CeaserRoll)
+  Walt Gee (vovanych)
+  Илья Кузнецов (ilyavj)
+  unknowndomain
+  zy9c 1337 (zy9c228)
+  Ninja Hacker3000 (ninjahacker3875)
+  evilserge
+  allan walpy (AndreyLysenkov)
+  Drahonn
+  Yuri Mihaqlov (yurijmi)
+  Mr. Games (oohskofgs)
+  SandoBY
+  Meldone (meldone)
+  BeDubber
+  Nezila Nez (Nezila)
+  Oleksandr Pavliuk (TheDustyy)
+  Anatoly (Atsupak)
+  Leika098
+  Kcurett TM (thekcurett)
+  iLefty
+  Evgeny Bogdanov (vtrifonov548)
+  Sigge Stjärnholm (Kladdy)
+  TOWUK (towuk)
+  mchg _ (mchg)
+  TR1D
+  Kuji Kitamura (KujiKita)
+  MeoWStraY
+  Kirill Arkhipov (dokl957)
+  MUHADDIS MEDIA (muhaddismedia)
+  FirstaAnta
+ Scottish Gaelic:
+  GunChleoc
+  Vainock
+  Endo (Balisong)
+  unknowndomain
+ Serbian (Cyrillic):
+  nikolanikola
+  medicmomcilo
+  Анониман (anonymousprivate76)
+  Vainock
+  lukazivanovic
+  Acamicamacaraca
+  Gol D. Ace (goldace)
+  veles330
+  LittleGirl_WithPonyTail (alexs1320)
+  unknowndomain
+  dodgepong
+ Serbian (Latin):
+  nikolanikola
+  medicmomcilo
+  Igor Ilic (gac)
+  LittleGirl_WithPonyTail (alexs1320)
+  Vainock
+  Nikola Perović (Fooftilly)
+  Gol D. Ace (goldace)
+  Rale Sarcevic (ralesarcevic)
+  unknowndomain
+  dodgepong
+ Silesian:
+  Psioczek
+  Vainock
+ Sinhala:
+  නාමල් ජයසිංහ (nimnaya)
+  හෙළබස සමූහය (HelaBasa)
+  rpu ysam (rpuyasi)
+  Vainock
+ Slovak:
+  Lukáš Čeremeta (luki1412)
+  Erik Bročko (ericek111)
+  Daniel Dekan (daniel.dekan111)
+  Ján M (longmoped)
+  Anton Lokaj (anlo)
+  Vainock
+  Dániel P. (Daniii_)
+  Vladimír Krajč (mkkyy)
+  TheWolfiKK
+  Gol D. Ace (goldace)
+  Miroslav Machala (Miroslav_Machala)
+  LoLLy Nka (lollynka279)
+  Giga hertz (gigahertzyt)
+  unknowndomain
+  HelloI'mUnderThe WaterPleaseHelpMe (BoBTHEbuilder)
+ Slovenian:
+  Arnold Marko (atomicmind)
+  Martin (miles)
+  kristjan.krusic (krusic22)
+  admrs
+  Aleksander Kovač (Acookook)
+  MG lolenstine (mglolenstine)
+  mspacapan
+  Giga hertz (gigahertzyt)
+  Vainock
+  Grimpy
+  Gol D. Ace (goldace)
+  ArcaneWater
+  unknowndomain
+  dodgepong
+  FixyFN (nikolaj.ceferin)
+ Spanish:
+  Monsteer
+  Marcos Vidal Martinez (M4RK22)
+  Jaime Martinez Rincon (mrjaime1999)
+  Honzo (HonzoNebro)
+  Jaime Muñoz Martín (jmmartin_5)
+  SweetSofiMC
+  Alex E. D. B. (alexedb)
+  EG Gamer (eggamer131)
+  Pilar G. (TheMadnessLady)
+  MarioMey
+  Gol D. Ace (goldace)
+  Trimax
+  716gjesu
+  Cristhofer Sanchez Solano (JafetSS)
+  Manuel Matías (manuel.matias)
+  Lluís R (LluisR98)
+  Vainock
+  Adolfo Jayme (fitoschido)
+  Alejandro Alzate Sanchez (alejandroalzate)
+  francisco Emanuel montero cordoba (monterofranciscoemanuel)
+  Maximiliano Schtroumpftech Pena-Roig (som2tokmynam)
+  Carlos Plata (carlosesgenial33)
+  JaviermbPlays (JavierMB)
+  Gonzalo Lorenzo (Gxnzalo)
+  eemiroj
+  Hector meneses (hector.meneses)
+  henrycontreras
+  Skiddome (sergiomalagonmartin)
+  Marcos Vidal (markitos.maki22)
+  Ruben Deig Ramos (rdeigramos)
+  1 (Ipsumry)
+  makiza1 (micosil_2)
+  Santiago Pereyra (SannttVIII)
+  jan (test83318)
+  David Sonico (davidsubsonico)
+  Jokeestd
+  AndMe (accomigt)
+  Eleazar (MtrElee3)
+  GNosii (ElNosii)
+  amssusgameplays (willifake052)
+  Stephen Q (qstephen73)
+  FloodedVoyage45
+  D E B (D_E_B)
+  Jaire (corpi.98)
+  unknowndomain
+  Sigge Stjärnholm (Kladdy)
+  Micaela Rivero Aguirre (riveromikaela15)
+  Charlongolo
+  neuzeh
+  Amy (amyipdev)
+  jiseokss
+  Juan Esteban (Juanskeree)
+  dodgepong
+  Rodrigo Ipince (ipince)
+  Streamlabs Translator (Streamlabs)
+  chaironeko
+  Gloriana Cocozza (gcocozza)
+  GarbageAtSB
+  Mogabie's Nation (Mogabie)
+  Rubén Pérez (RixzZ)
+ Swedish:
+  Anton R (FirePhoenix)
+  Sigge Stjärnholm (Kladdy)
+  Laccy IEST (Laccy)
+  Bjorn Astrom (beeanyew)
+  0x9fff00
+  LinusW
+  Gustav Ekner (ekner)
+  Victor Ahlin (VSwede)
+  Vainock
+  Mats Karlsson (matska)
+  ArvidTheSwe
+  hentor5
+  Olle Dahström (odahlstrom)
+  nahkampf
+  dotar (TorstenAugustsson)
+  Gol D. Ace (goldace)
+  Kristoffer Grundström (Umeaboy)
+  Henrik Mattsson-Mårn (rchk)
+  unknowndomain
+  Axel Aminoff (axel.aminoff)
+  chaironeko
+  Jonas Svensson (jonassanojj99)
+  Hannes Blåman (thebluis)
+  TacticalKebab
+  kronblom2
+ Tagalog:
+  dandalion
+  jermel
+  jbeguna04
+  philiparniebinag
+  TheBMG Playz (thebmgplayzyt)
+  Vainock
+  Napstaguy04
+  Gol D. Ace (goldace)
+  Red Dayao (steemitph)
+  Laarnice
+  unknowndomain
+  Raylir
+ Tamil:
+  anto27
+  Jaiganésh Kumaran (Jaiganesh)
+  GobinathAL
+  rooban23
+  Vainock
+  Gol D. Ace (goldace)
+  unknowndomain
+ Telugu:
+  CRTL Amaravati (rrskiran)
+ Thai:
+  Yarika Sutthiwong (ammaneena)
+  เทพประสิทธิ์ โพลาหา (Thepprasit300150)
+  Alvah Connelly (AlvahConnelly)
+  Slow Life (SlowLife)
+  aefgh3962
+  Nawin Somprasong (thaipirch98)
+  Kamolpat Petsuwan (Paksa)
+  zero0200
+  ธีรภัทร์ โยชนา (2RD)
+  PolaX3
+  sakuhanachan* (sakuhanachanloli)
+  SurachaiJUI
+  Sakia Normal Human (arcanaarcana5)
+  PlyKung (plykung)
+  Vainock
+  Oat. Thanawat (thanawat6484)
+  盛凤阁 (execzero)
+  nongnoobjung (kitcharuk_4)
+  301-14 สิรวิชญ์ ศรีคําเมือง (Sam_Hanhyongsok2006)
+  Worawut Weerawan (nero.exe)
+  Rathchaarnon Threeanjuleethaan (rathchaarnon)
+  unknowndomain
+  แมน ทศพร (lovemanna456)
+  Warasinee Prasarnsieng (worametee)
+  dodgepong
+  Ryan Gleeson (Ryan_7149)
+  Gol D. Ace (goldace)
+  วรภร หนูปลอด6.1 (woraporn.hnu)
+  123456789sssssssssssssssssssss
+ Turkish:
+  monolifed
+  Ali Kömesöğütlü (Mobile46) (byzlo685)
+  Metehan Özyürek (MetehanOzyurek)
+  omer.karagoz (mrkaragoz)
+  vgezer
+  Cemal Dursun (cmldrs)
+  Savas Tokmak (Laserist)
+  Vainock
+  Umut kılıç (kilic190787)
+  Burak‏ Eker‏‏‏‏‏‏‎ (mburakeker)
+  BreezeQS
+  furkanbicici
+  keke_ea
+  MeskaX
+  Murat Karagöz (anemon_1994)
+  Miss.Syzygy
+  Görkem Akova (gorkemakova)
+  Ebubekir Türker (ebubekirtrkr)
+  oth0pus
+  Bilgehan Demirel (bilgehandemirel)
+  Alperen Yıldız (Sparrow34Tr)
+  realdep (realdeep)
+  Gol D. Ace (goldace)
+  Zafer Çopur (zafercopur)
+  berkcan uçan (ibnehayati)
+  Solusyon2
+  gecebekcisi1
+  Emin Can OGUZ (emincanoguz11)
+  Furkan Korhan (furkankorhan)
+  inci (sluggishwitch)
+  bitigchi
+  Berk Kırıkçı (berkkrkc09)
+  Tarık Coşkun (tarikcoskun)
+  BedirhanGltkn (bedirhangltkn)
+  Ege Uzun (kise5478)
+  bkzspam
+  Ferhat Geçdoğan (ferhatgec)
+  Onur Yılmaz (Makaron3422)
+  Baran Moroğan (okunamayanad)
+  TahaCelik
+  Ata Çağan Atamer (atamerco23)
+  mustafaa
+  Batıkan Ökten (xdieofgo)
+  Richard Stanway (r1ch)
+  Nightmare837 gaming (mutlupide)
+  TimurOzcan
+  Ömer (upp4r)
+  Zay (Zayria)
+  Yıldırım Mehmet Nur (MehmetNY)
+  Niemand (lelledguy)
+  Khedi
+  Giga hertz (gigahertzyt)
+  unknowndomain
+  Hydroboost
+  Mustafa Arslan (mstfaa)
+  Alican Gultekin (Vitaefinis)
+  Fatih Güneş (fatihgunes)
+  Ip Logging Boi (Karatchi)
+  Türker Yıldırım (turkeryildirim)
+  Mert (Periyot)
+  basakbk
+  NOYB
+  Huseyin Emre (emreemuzik)
+  chaironeko
+ Ukrainian:
+  SuslikV
+  Mykola Ronik (Mantikor)
+  lxlalexlxl
+  Ihor Hordiichuk (ihor_ck)
+  Anatoly Belibov (anatoly136ua)
+  Vainock
+  GNCanva
+  Lino Bico (bicolino34)
+  Dekanenko (dekanenko)
+  Юрій (Devinit)
+  Giga hertz (gigahertzyt)
+  Shannar de Kassal (587)
+  Gol D. Ace (goldace)
+  kateryna.roiko
+  Andy (anry025)
+  Andrey (Fokz)
+  NoPressure
+  បងមាន តែអូន (cheaiphone267)
+  geimfis
+  L1Q
+  powerdef
+  Sergii Raboshchuk (Fallenbard)
+  unknowndomain
+  A A (hran)
+  skuu
+  Maksym Tymoshyk (maximillian_)
+  Oleksandr Pavliuk (TheDustyy)
+  Mark Chorney (chorneymark2006)
+  Володимир Родич (vrodych)
+ Urdu (Pakistan):
+  Sheikh Ahmed (sheikhahmed)
+  Rana Awais (ehtisham)
+  tahirsada
+  shamuntohamd
+  unknowndomain
+  Gol D. Ace (goldace)
+  Vainock
+ Vietnamese:
+  IoeCmcomc (ioecmcomc)
+  Johnny “max20091” Utah (boostyourprogram)
+  Quang Nguyen (quangnguyen.25)
+  Vichy (tnhung2011)
+  Hưng Nguyễn (hoyostudio)
+  ngoisaosang
+  Dũng Nguyễn (CDzungx)
+  Sylvi? (Sylixa)
+  Drake Strike (phjtieudoc)
+  Gol D. Ace (goldace)
+  dat trinh duy (zungsle)
+  tinh200974
+  Bui Huy Quang (bhuyquang1)
+  BIGO - 지혜 (parkjihye96)
+  Blog Đào Lê Minh (daoleminh2010)
+  Hà Phi Hùng (haphihungcom)
+  Duy–Thanh Doan (duythanhvn)
+  anhduck14
+  Bùi Xuân Hải (real.xuanhai)
+  HUYwx (vodoanhuy301)
+  Vainock
+  rezarria
+  Michio Nakano (michioxd)
+  Shinoge
+  Geenzo Gamer (geenzogamer164)
+  unknowndomain
+  Vũ Hải Tây (tayngungo1999)
+  oranz21
+  dodgepong
+  Dawkin Nguyen (dawkinit)
+  V4Ki3t_VN
+  sharkie
+  NCAA
